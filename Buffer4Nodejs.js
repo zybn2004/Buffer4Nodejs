@@ -57,3 +57,8 @@ Buffer.prototype.copy = function(targetBuffer, targetStart, sourceStart, sourceE
     targetBuffer.resize(0);
     targetBuffer.write(newBf);
 }
+
+
+Buffer.isBuffer = function(obj){
+    return (obj instanceof Buffer);
+}
