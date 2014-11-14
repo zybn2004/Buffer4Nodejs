@@ -1,0 +1,18 @@
+{
+    "name": "Buffer4Nodejs",
+    "version": "0.0.1",
+    "description":"",
+    "author":"zybn2004 <zybn2004@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zybn2004/Buffer4Nodejs.git"
+    },
+    "main": "./Buffer4Nodejs",
+    "keywords": [
+        "fibjs",
+        "Buffer",
+        "nodejs",
+        "兼容",
+        "compatible"
+    ]
+}
